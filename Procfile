@@ -1,1 +1,1 @@
-web: gunicorn umacausa_ionic.wsgi --log-file - 
+web: python manage.py migrate && gunicorn umacausa_ionic.wsg
