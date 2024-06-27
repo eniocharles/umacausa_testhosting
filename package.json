@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vercel": "^34.2.8",
+    "whitenoise": "^0.0.1"
+  }
+}

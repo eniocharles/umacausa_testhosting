@@ -1,0 +1,1 @@
+web: gunicorn umacausa_ionic.wsgi --log-file -
